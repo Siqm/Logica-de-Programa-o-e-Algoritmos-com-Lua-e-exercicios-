@@ -1,0 +1,5 @@
+print("digite um numero: ")
+num1 = io.read()
+print("digite outro numero: ")
+num2 = io.read()
+print("soma = ", num1 + num2)
